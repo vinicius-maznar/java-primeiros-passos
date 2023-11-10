@@ -4,4 +4,4 @@ Curso equivalente à disciplina de Lógica de Programação da faculdade, para i
 
 # Sumário
 
-1.[Algoritmo, Automação e Programa de Computador]()
+1.[Algoritmo, Automação e Programa de Computador](https://github.com/vinicius-maznar/java-primeiros-passos/blob/main/01-algoritmo-automacao-e-programa-de-computador.md)
