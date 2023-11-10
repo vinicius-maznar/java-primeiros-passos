@@ -9,14 +9,14 @@
 ### Problema: lavar roupa suja
 - Instruções para lavar roupa suja:
 
-    1. Colocar a roupa em um recipiente
-    2. Colocar um pouco de sabão e amaciante
-    3. Encher de água
-    4. Mexer tudo até dissolver todo o sabão
-    5. Deixar de molho por vinte minutos
-    6. Esfregar a roupa
-    7. Enxaguar
-    8. Torcer
+  - Colocar a roupa em um recipiente
+  - Colocar um pouco de sabão e amaciante
+  - Encher de água
+  - Mexer tudo até dissolver todo o sabão
+  - Deixar de molho por vinte minutos
+  - Esfregar a roupa
+  - Enxaguar
+  - Torcer
 
 ## 💡 Automação
 
