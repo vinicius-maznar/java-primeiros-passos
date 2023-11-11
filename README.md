@@ -11,3 +11,5 @@ Curso equivalente à disciplina de Lógica de Programação da faculdade, para i
 4. [Código Fonte e Código Objeto](https://github.com/vinicius-maznar/java-primeiros-passos/blob/main/04-codigo-fonte-e-objeto.md)
 5. [Instalação do Java JDK e Eclipse](https://github.com/vinicius-maznar/java-primeiros-passos/blob/main/05-instalacao-do-java-jdk-e-eclipse.md);
 6. [Primeiro Programa em Java e Configurando o Eclipse](https://github.com/vinicius-maznar/java-primeiros-passos/blob/main/06-introducao-primeiro-programa-em-java-e-configurando-o-eclipse.md)
+
+## Seção 2️⃣: Estrutura Sequencial.
