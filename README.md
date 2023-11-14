@@ -15,7 +15,7 @@ Curso equivalente à disciplina de Lógica de Programação da faculdade, para i
 ## Seção 2️⃣: Estrutura Sequencial.
 7. [Estrutura Sequencial](https://github.com/vinicius-maznar/java-primeiros-passos/blob/main/07-estrutura-sequencial.md)
 8. [Expressões Aritméticas](https://github.com/vinicius-maznar/java-primeiros-passos/blob/main/08-estrutura-sequencial-expressoes-aritmeticas.md)
-9. []()
+9. [Variáveis](https://github.com/vinicius-maznar/java-primeiros-passos/blob/main/09-estrutura-sequencial-variaveis.md)
 10. []()
 11. []()
 12. []()
