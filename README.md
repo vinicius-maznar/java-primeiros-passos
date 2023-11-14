@@ -13,3 +13,12 @@ Curso equivalente à disciplina de Lógica de Programação da faculdade, para i
 6. [Primeiro Programa em Java e Configurando o Eclipse](https://github.com/vinicius-maznar/java-primeiros-passos/blob/main/06-introducao-primeiro-programa-em-java-e-configurando-o-eclipse.md)
 
 ## Seção 2️⃣: Estrutura Sequencial.
+7. [Estrutura Sequencial](https://github.com/vinicius-maznar/java-primeiros-passos/blob/main/07-estrutura-sequencial.md)
+8. []()
+9. []()
+10. []()
+11. []()
+12. []()
+13. []()
+14. []()
+15. []()
