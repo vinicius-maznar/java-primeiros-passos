@@ -17,7 +17,7 @@
 
 ## 🌎 Default Locale
 - O Locale padrão é derivado do ambiente de execução.
-- Pode ser obtido com Locale.getDefault().
+- Pode ser obtido com `Locale.getDefault()`.
 
 ## 🛠 Uso com Locale-sensíveis
 - Muitos métodos em Java, como formatação de números e datas, aceitam um parâmetro Locale.
