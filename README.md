@@ -18,7 +18,7 @@ Curso equivalente à disciplina de Lógica de Programação da faculdade, para i
 9. [Variáveis](https://github.com/vinicius-maznar/java-primeiros-passos/blob/main/09-estrutura-sequencial-variaveis.md)
 10. [Tipos Inteiros](https://github.com/vinicius-maznar/java-primeiros-passos/blob/main/10-estrutura-sequencial-tipos-inteiros.md)
 11. [Tipo Númericos Com Ponto Flutuante](https://github.com/vinicius-maznar/java-primeiros-passos/blob/main/11-estrutura-sequencial-tipos-numericos-com-ponto-flutuante.md)
-12. []()
+12. [Tipos de Dados de Caracteres em Java](https://github.com/vinicius-maznar/java-primeiros-passos/blob/main/12-tipos-de-dados-de-caracteres-em-java.md)
 13. []()
 14. []()
 15. []()
