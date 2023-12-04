@@ -22,7 +22,7 @@ Curso equivalente à disciplina de Lógica de Programação da faculdade, para i
 13. [Caracteres Unicode](https://github.com/vinicius-maznar/java-primeiros-passos/blob/main/13-caracteres-unicode.md)
 14. [Tipos de Valores Boolean e Valores Verdades](https://github.com/vinicius-maznar/java-primeiros-passos/blob/main/14-tipos-de-dados-boolean-e-valores-verdades.md)
 15. [Saída de Dados em Java](https://github.com/vinicius-maznar/java-primeiros-passos/blob/main/15-saida-de-dados-em-java.md)
-16. []()
+16. [Máscara de Formatação](https://github.com/vinicius-maznar/java-primeiros-passos/blob/main/16-mascara-de-formatacao.md)
 17. []()
 18. []()
 19. []()
