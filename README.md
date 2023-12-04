@@ -20,5 +20,5 @@ Curso equivalente à disciplina de Lógica de Programação da faculdade, para i
 11. [Tipo Númericos Com Ponto Flutuante](https://github.com/vinicius-maznar/java-primeiros-passos/blob/main/11-estrutura-sequencial-tipos-numericos-com-ponto-flutuante.md)
 12. [Tipos de Dados de Caracteres em Java](https://github.com/vinicius-maznar/java-primeiros-passos/blob/main/12-tipos-de-dados-de-caracteres-em-java.md)
 13. [Caracteres Unicode](https://github.com/vinicius-maznar/java-primeiros-passos/blob/main/13-caracteres-unicode.md)
-14. []()
+14. [Tipos de Valores Boolean e Valores Verdades](https://github.com/vinicius-maznar/java-primeiros-passos/blob/main/14-tipos-de-dados-boolean-e-valores-verdades.md)
 15. []()
